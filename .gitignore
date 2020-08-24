@@ -1,0 +1,10 @@
+#idea ignore
+**/.idea
+
+# vscode
+**/.vscode
+
+# Log file
+*.log
+**/log
+
